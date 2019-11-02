@@ -1,0 +1,1 @@
+protoc ./01-Unary/proto/greet.proto --go_out=plugins=grpc:.
